@@ -4,7 +4,7 @@ Our system filters out the fraudulent job postings before recommending the jobs 
 
 Note- Both the jupyter notebooks uploaded to GitHub contains the corresponding output with it.
 
-Phase one - EDA
+# Phase one - EDA and Fraudulent job Classifier
 Kindly execute using https://colab.research.google.com/ and upload the necessary files as mentioned in the Input Data Files Section.
 
 Code file - Phase_One_EDA.ipynb
@@ -13,7 +13,8 @@ Note - As our input files were greater than 25 mb, we were not able to upload to
 Output - Preprocessed_data.csv
 Description of code file - We performed EDA on our original dataset (fake_job_postings.csv) and the hypothesis mentioned in phase one of the Report are experimented. Also, we performed pre-processing on dataset. The output of this notebook is a dataset (Preprocessed_data.csv)
 
-Creating a filter and job recommender
+
+# Creating a Job Recommender
 Kindly execute using https://colab.research.google.com/ and upload the necessary files as mentioned in the Input Data Files Section.
 Code file - Filter_and_Recommender.ipynb
 Input data files -
