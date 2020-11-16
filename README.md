@@ -1,5 +1,4 @@
-# Machine-Learning
-Non Fraudulent Job Recommender
+# Non Fraudulent Job Recommender
 Our system filters out the fraudulent job postings before recommending the jobs based on the details provided by the user.
 
 Note- Both the jupyter notebooks uploaded to GitHub contains the corresponding output with it.
